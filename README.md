@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
    <a href="https://github.com/abrahamdw882">
-    <img src="https://github.com/abrahamdw882/ABBOTWEB.github.io/blob/main/abraham.jpg"width="800"> </a>
+    <img src="https://github.com/abrahamdw882/ABBOTWEB.github.io/blob/main/abraham.jpg"width="800" height="10"> </a>
     </p>
 
 
