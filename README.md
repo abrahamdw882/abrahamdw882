@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 </p>
 
 # My Recent Project:
-- [Bugs1 (Dangerous Virus)](https://github.com/abrahamdw882/DREADED-GPT-AI)
+- [⚡ (My Main web)](https://ab-webl.vercel.app)
 <p align="left">
-   <a href="https://github.com/abrahamdw882/DREADED-GPT-AI>
+   <a href="https://ab-web.vercel.app>
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
 </p>
 
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
 
-<!-- Contact Mr Juice -->
+<!-- Contact Mr Abraham -->
 <b><details><summary>Click to Chat Me</summary></b>
 
 ## ```Connect With Mr Abraham```
