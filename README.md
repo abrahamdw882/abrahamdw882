@@ -69,10 +69,12 @@ Here are some ideas to get you started:
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=abrahamdw882&show_icons=true&theme=vision-friendly-dark)
 <br>
 <br>
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdw882&layout=compact)](https://github.com/abeahamdw882/github-readme-stats)<br>
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=abrahamdw882)
 <br>
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=abrahamdw882&hide=B,B%2B)
+
 <br>
 <br>
 
