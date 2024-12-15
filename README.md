@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
    <a href="https://github.com/abrahamdw882">
-    <img src="https://th.bing.com/th/id/OIP.aRVeFXMZnD5eU_M0zzMeOAHaEu?rs=1&pid=ImgDetMain"width="180" height="150"> </a>
+    <img src="https://th.bing.com/th/id/OIP.aRVeFXMZnD5eU_M0zzMeOAHaEu?rs=1&pid=ImgDetMain"width="220" height="150"> </a>
     </p>
 
 
