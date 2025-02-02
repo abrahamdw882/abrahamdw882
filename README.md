@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 # My about:
 - Im currently a student.
 - Im currently learning I.T and Also How to become a Developer 
-- I'm intesested in both procedural languages(C, Bash) and object oriented language(Js, c++).
+- I'm intesested in both procedural languages(C, Bash) and object oriented language(Js, c++,php).
 - My current ongoing projects are: Whatsapp Bot, Termux and Khali Srcipts.
 - Currently working on [ANIME WEBSITE](https://ab-anime-streamer.pages.dev/)
 
