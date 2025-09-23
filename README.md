@@ -92,13 +92,7 @@ Here are some ideas to get you started:
     </p>
 <br>
 
-# My Popular Repositories:
 
--   [AB portfolio Beta]( https://github.com/abrahamdw882/ABBOTWEB.github.io/blob/main/abraham.jpg)
-
--   [Insta Followers](https://github.com/abrahamdw882/insfollow)
-
--   [WhatsApp-banner-Master](https://github.com/abrahamdw882/Whatsapp-Bann-Master)
 
 <br>
 <br>
