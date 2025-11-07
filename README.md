@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - Im nobody and dont want to be anybody but just to help others in need
 - I'm intesested in both procedural languages(C, Bash) and object oriented language(Js, c++,php).
 - My current ongoing projects are: Whatsapp Bot, Termux and Khali Srcipts.
-- Currently working on [ANIME WEBSITE](https://ab-anime-streamer.pages.dev/)
+- Currently working on [MOVIEX ](https://www.moviex.name.ng/)
 
 <br>
 <br>
