@@ -2,50 +2,39 @@
 
 <!--
 **abrahamdw882/abrahamdw882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 <p align="center">
    <a href="https://github.com/abrahamdw882">
-    <img src="https://th.bing.com/th/id/OIP.aRVeFXMZnD5eU_M0zzMeOAHaEu?rs=1&pid=ImgDetMain"width="220" height="150"> </a>
-    </p>
-
+    <img src="https://th.bing.com/th/id/OIP.aRVeFXMZnD5eU_M0zzMeOAHaEu?rs=1&pid=ImgDetMain" width="220" height="150"> </a>
+</p>
 
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+Mr+Abraham+;Thanks+for+Visiting+;Follow+my+github"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+        alt="Typing SVG"
+    />
 </div>
 
-
-
 # My about:
-- Im currently a student.
-- Im nobody and dont want to be anybody but just to help others in need
-- I'm intesested in both procedural languages(C, Bash) and object oriented language(Js, c++,php).
-- My current ongoing projects are: Whatsapp Bot, Termux and Khali Srcipts.
-- Currently working on [MOVIEX ](https://www.moviex.name.ng/)
+- I'm currently a student.
+- I'm nobody and don't want to be anybody but just to help others in need
+- I'm interested in both procedural languages (C, Bash) and object oriented language (Js, c++, php).
+- My current ongoing projects are: Whatsapp Bot, Termux and Khali Scripts.
+- Currently working on [MOVIEX](https://www.moviex.name.ng/)
 
 <br>
+
 ## Watch This
 <p align="center">
-  <a href="https://files.catbox.moe/b82ap1.mp4">
-    <img src="https://img.shields.io/badge/Click_to_Watch_Video-FF0000?style=for-the-badge&logo=video&logoColor=white" alt="Watch Video">
-  </a>
+  <video width="600" controls>
+    <source src="https://files.catbox.moe/b82ap1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
+
 <br>
+
 <p align="center">Hello, World🤞 welcome |©AB BOT DEV🤖|please code with me ok😁 ! </p>
 
 <p align="center">
@@ -55,20 +44,18 @@ Here are some ideas to get you started:
 # My Recent Project:
 - [⚡ (My Main web)](https://ab-webl.vercel.app)
 <p align="left">
-   <a href="https://ab-web.vercel.app>
+   <a href="https://ab-web.vercel.app">
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
+</a>
 </p>
 
-<h3 align="left"> Bugs1 A Powerfull IOS & Android Bug 
-</h3>
+<h3 align="left"> Bugs1 A Powerful IOS & Android Bug </h3>
 <br><br><br>
 
 # My Github Status:
- 
 <br>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01)](https://github.com/abrahamdw882)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abrahamdw882)](https://github.com/abrahamdw882)
 
 <br>
 
@@ -77,10 +64,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdw882&layout=compact)](https://github.com/abeahamdw882/github-readme-stats)<br>
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=abrahamdw882)
-<br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdw882&layout=compact)](https://github.com/abrahamdw882/github-readme-stats)<br>
+![GitHub Contribution stats](https://github-contributor-stats.vercel.app/api?username=abrahamdw882)
 <br>
 <br>
 
@@ -88,29 +73,26 @@ Here are some ideas to get you started:
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
 
-
-<h2 align="center"> I will keep running and improving my progress day by day...
-</h2>
+<h2 align="center"> I will keep running and improving my progress day by day... </h2>
 
 <p align="center">
    <a href="https://github.com/abrahamdw882">
     <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
-    </p>
-<br>
-
-
-
+</p>
 <br>
 <br>
 <br>
-
 
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
+        alt="Typing SVG"
+    />
+</div>
 
 <!-- Contact Mr Abraham -->
-<b><details><summary>Click to Chat Me</summary></b>
+<details>
+<summary><b>Click to Chat Me</b></summary>
 
 ## ```Connect With Mr Abraham```
 
@@ -124,4 +106,5 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
 
 #### If you have any queries or suggestions then you can contact me i will be happy to respond. 
+</details>
 <br>
