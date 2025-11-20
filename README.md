@@ -24,28 +24,9 @@
 - Currently working on [MOVIEX](https://www.moviex.name.ng/)
 <br>
 <p align="center">
-  <button onclick="window.open('audio-player.html', '_blank')" style="
-    background: linear-gradient(45deg, #667eea, #764ba2);
-    padding: 20px;
-    border-radius: 15px;
-    width: 300px;
-    margin: 0 auto;
-    text-align: center;
-    color: white;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-    border: 2px solid transparent;
-    border: none;
-    font-family: inherit;
-    display: block;
-  " 
-  onmouseover="this.style.transform='scale(1.05)'; this.style.borderColor='rgba(255,255,255,0.3)';" 
-  onmouseout="this.style.transform='scale(1)'; this.style.borderColor='transparent';">
-    <div style="font-size: 50px; margin-bottom: 10px;">🎵</div>
-    <strong style="font-size: 20px; display: block; margin-bottom: 5px;">▶️ Play Audio</strong>
-    <small style="opacity: 0.9;">Click to open audio player</small>
-  </button>
+  <a href="https://files.catbox.moe/gpldbb.mp3" target="_blank">
+    <img src="https://img.shields.io/badge/🎵-Listen To Audio-blue?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen Audio"/>
+  </a>
 </p>
 <br>
 <br>
