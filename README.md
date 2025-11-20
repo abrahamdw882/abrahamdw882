@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <br>
 ## Watch This
 <p align="center">
-  <video width="600" controls>
-    <source src="https://files.catbox.moe/b82ap1.mp4" type="video/mp4">
-  </video>
+  <a href="https://files.catbox.moe/b82ap1.mp4">
+    <img src="https://img.shields.io/badge/Click_to_Watch_Video-FF0000?style=for-the-badge&logo=video&logoColor=white" alt="Watch Video">
+  </a>
 </p>
 <br>
 <p align="center">Hello, World🤞 welcome |©AB BOT DEV🤖|please code with me ok😁 ! </p>
