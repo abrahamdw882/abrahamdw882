@@ -26,13 +26,23 @@
 <br>
 ## Listen This
 <p align="center">
-  <a href="https://files.catbox.moe/gpldbb.mp3" download style="text-decoration: none;">
-    <div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 20px; border-radius: 15px; width: 300px; margin: 0 auto; text-align: center; color: white;">
-      <img src="https://media.giphy.com/media/3o7abldj0b3RxrZUxW/giphy.gif" width="80" style="border-radius: 10px;">
+  <a href="https://files.catbox.moe/gpldbb.mp3" target="_blank" style="text-decoration: none;">
+    <div style="
+      background: linear-gradient(45deg, #667eea, #764ba2); 
+      padding: 20px; 
+      border-radius: 15px; 
+      width: 300px; 
+      margin: 0 auto; 
+      text-align: center; 
+      color: white;
+      cursor: pointer;
+      transition: transform 0.2s;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    ">
+      <div style="font-size: 40px; margin-bottom: 10px;">🎵</div>
+      <strong style="font-size: 18px;">Click to Listen</strong>
       <br>
-      <strong>▶️ Click to Play Audio</strong>
-      <br>
-      <small>Audio File • MP3</small>
+      <small>Audio Preview • MP3</small>
     </div>
   </a>
 </p>
