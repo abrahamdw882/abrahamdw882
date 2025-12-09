@@ -38,7 +38,7 @@
 </p>
 
 # My Recent Project:
-- [⚡ (NONE)](https://ab-webl.vercel.app)
+- [⚡ (EMPTY)](https://ab-webl.vercel.app)
 <p align="left">
    <a href="https://ab-webl.vercel.app">
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
