@@ -45,17 +45,10 @@
 </a>
 </p>
 
-<h3 align="left"> Bugs1 A Powerful IOS & Android Bug </h3>
 <br><br><br>
 
 # My Github Status:
 
-![Github Badges](https://github-readme-stats.vercel.app/api?username=abrahamdw882&show_icons=true&theme=vision-friendly-dark)
-<br>
-<br>
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdw882&layout=compact)](https://github.com/abrahamdw882/github-readme-stats)<br>
 ![GitHub Contribution stats](https://github-contributor-stats.vercel.app/api?username=abrahamdw882)
 <br>
 <br>
