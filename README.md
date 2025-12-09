@@ -49,11 +49,6 @@
 <br><br><br>
 
 # My Github Status:
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abrahamdw882)](https://github.com/abrahamdw882)
-
-<br>
 
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=abrahamdw882&show_icons=true&theme=vision-friendly-dark)
 <br>
