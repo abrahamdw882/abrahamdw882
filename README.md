@@ -6,7 +6,7 @@
 
 <p align="center">
    <a href="https://github.com/abrahamdw882">
-    <img src="https://i.pinimg.com/originals/9b/93/8a/9b938a9c80c7c4a9450f69fd5fc76c8e.jpg" width="220" height="150"> </a>
+    <img src="https://i.pinimg.com/originals/9b/93/8a/9b938a9c80c7c4a9450f69fd5fc76c8e.jpg" width="220" height="350"> </a>
 </p>
 
 <div align="center">
