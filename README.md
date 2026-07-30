@@ -78,7 +78,7 @@
 <details>
 <summary><b>Click to Chat Me</b></summary>
 
-## ```Connect With Mr Abraham```
+## ```Connect With Rajakamal / abztech```
 
 ## Follow me on
 <a href="https://abrahamdw882.github.io/ABBOTWEB.github.io/portfolio.html"><img alt="Telegram bot" src="https://img.shields.io/badge/Bot-Developer Abraham-blue"/></a>
